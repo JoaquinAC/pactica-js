@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,CAAA;EACF,MAAM,EAAE,aAAa;EACrB,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,UAAU;CAC/B;;ACJD,AAAA,EAAE,CAAC,EAAE,CAAC;EACF,qBAAqB,EAAE,IAAI;CAC9B;;AFED,AAAA,IAAI,CAAC;EACD,gBAAgB,EGLJ,GAAG;CHMlB;;AAED,AAAA,KAAK,CAAC;EACF,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "../../../../../Desktop/pr/PORTFOLIO/scss/estilo.scss",
+        "../../../../../Desktop/pr/PORTFOLIO/scss/componentes/_cuadro.scss",
+        "../../../../../Desktop/pr/PORTFOLIO/scss/componentes/_lista.scss",
+        "../../../../../Desktop/pr/PORTFOLIO/scss/componentes/_variables.scss"
+    ],
+    "names": [],
+    "file": "estilo.css"
+}

@@ -1,0 +1,21 @@
+.caja1 {
+  border: 1px black 1px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: blueviolet;
+}
+
+ul li {
+  -webkit-text-decoration-style: none;
+          text-decoration-style: none;
+}
+
+body {
+  background-color: red;
+}
+
+#caja {
+  text-decoration: none;
+}
+/*# sourceMappingURL=estilo.css.map */
